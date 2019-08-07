@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DUTcoin
+Comment=DUTcoin P2P Cryptocurrency
+Exec=dutcoin-qt %u
+Terminal=false
+Type=Application
+Icon=dutcoin128
+MimeType=x-scheme-handler/dutcoin;
+Categories=Office;Finance;
+Name[en_US]=dutcoin-qt.desktop
